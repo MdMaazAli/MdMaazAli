@@ -19,26 +19,20 @@
 
 ### Tech Stack
 
----
-
-### Tech Stack
-
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&hover=true" />
+* <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&hover=true" />
 </p>
 
 #### Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&hover=true" />
+* <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&hover=true" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&hover=true" />
+* <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&hover=true" />
 </p>
-
----
 
 ---
 
@@ -62,19 +56,19 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&theme=dark&hide_border=true&icon_color=ff8c00&text_color=ffa500&title_color=ff8c00" width="48%"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MdMaazAli&theme=dark&hide_border=true&stroke=ff8c00&currstreak_bg=ff8c00" width="48%"/>
+a <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&theme=dark&hide_border=true&icon_color=ff8c00&text_color=ffa500&title_color=ff8c00" width="48%"/>
+a <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MdMaazAli&theme=dark&hide_border=true&stroke=ff8c00&currstreak_bg=ff8c00" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdMaazAli&bg_color=1a1b27&color=ffa500&line=ffa500&point=ffa500&area=true&hide_border=true" />
+a <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdMaazAli&bg_color=1a1b27&color=ffa500&line=ffa500&point=ffa500&area=true&hide_border=true" />
 </p>
 
 ---
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=darkhub&no-frame=true&margin-w=10" />
+a <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=darkhub&no-frame=true&margin-w=10" />
 </p> 
 
 ---
@@ -85,7 +79,7 @@
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=MdMaazAli&theme=dark&hide_border=true&colors=#1a1b27,#26283b,#543714,#8b5c2a,#ffa500" alt="Contribution Snake"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=MdMaazAli&theme=dark&hide_border=true&colors=#1a1b27,#26283b,#543714,#8b5c2a,#ffa500" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -93,5 +87,5 @@
 ### Connect
 <p align="center">
   <a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white"></a>
+image-generation-failed-red-x-button-i-c-l-png <a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white"></a>
 </p>
