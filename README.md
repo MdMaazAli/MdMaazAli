@@ -23,20 +23,38 @@
 
 ### ⚙️ Tech Stack
 
+<div align="center">
+
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&v=3" />
+  <a href="https://skillicons.dev/icons?i=c"><img src="https://cdn.simpleicons.org/c/a8b9cc" height="40" alt="c logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=cpp"><img src="https://cdn.simpleicons.org/cplusplus/00599c" height="40" alt="cplusplus logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=cs"><img src="https://cdn.simpleicons.org/csharp/512bd4" height="40" alt="csharp logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=glsl"><img src="https://cdn.simpleicons.org/glsl/white" height="40" alt="glsl logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=html"><img src="https://cdn.simpleicons.org/html5/e34f26" height="40" alt="html5 logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=css"><img src="https://cdn.simpleicons.org/css3/1572b6" height="40" alt="css3 logo"  /></a>
 </p>
 
 #### Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&v=3" />
+  <a href="https://skillicons.dev/icons?i=opengl"><img src="https://cdn.simpleicons.org/opengl/5586a4" height="40" alt="opengl logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=unity"><img src="https://cdn.simpleicons.org/unity/ffffff" height="40" alt="unity logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=threejs"><img src="https://cdn.simpleicons.org/threejs/ffffff" height="40" alt="threejs logo"  /></a>
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&v=3" />
+  <a href="https://skillicons.dev/icons?i=blender"><img src="https://cdn.simpleicons.org/blender/f5792a" height="40" alt="blender logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=gimp"><img src="https://cdn.simpleicons.org/gimp/5c5543" height="40" alt="gimp logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=ai"><img src="https://cdn.simpleicons.org/adobeillustrator/ff9a00" height="40" alt="adobeillustrator logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=xd"><img src="https://cdn.simpleicons.org/adobexd/ff61f6" height="40" alt="adobexd logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=figma"><img src="https://cdn.simpleicons.org/figma/f24e1e" height="40" alt="figma logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=git"><img src="https://cdn.simpleicons.org/git/f05032" height="40" alt="git logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=github"><img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github logo"  /></a>
+  <a href="https://skillicons.dev/icons?i=vscode"><img src="https://cdn.simpleicons.org/visualstudiocode/007acc" height="40" alt="visualstudiocode logo"  /></a>
 </p>
+
+</div>
 
 ---
 
