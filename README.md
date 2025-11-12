@@ -25,14 +25,13 @@
 
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css&perline=10&theme=dark" />
 </p>
 
 #### Libraries & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,threejs&perline=10&theme=dark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/GLSL_Logo.svg" width="48" height="48" alt="GLSL" />
 </p>
 
 #### Tools & Platforms
