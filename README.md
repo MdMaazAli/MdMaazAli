@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff4500; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 12px #ff3300;">
+<h1 align="center" style="color:#FF5349; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 12px #ff3300;">
   MD MAAZ ALI HAIDER
 </h1>
 
