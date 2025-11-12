@@ -79,7 +79,7 @@
 
 ### ⚙️ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Just-Here-TO-Code&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=darkhub&no-frame=true&margin-w=10" />
 </p> 
 
 ---
