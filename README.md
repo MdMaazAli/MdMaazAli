@@ -21,17 +21,17 @@
 
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&hover=true" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&hover=true&v=2" />
 </p>
 
 #### Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&hover=true" />
+  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&hover=true&v=2" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&hover=true" />
+  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&hover=true&v=2" />
 </p>
 
 ---
@@ -74,13 +74,6 @@
 ---
 
 > My focus is the intersection of art, game development, and low-level graphics programming.
-
----
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=MdMaazAli&theme=dark&hide_border=true&colors=#1a1b27,#26283b,#543714,#8b5c2a,#ffa500" alt="Contribution Snake"/>
-</p>
 
 ---
 
