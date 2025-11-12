@@ -12,7 +12,7 @@
 
 ---
 
-### 🜸 About Me
+### ⚙️ About Me
 * I am a Computer Science student at the **Indian Institute of Information Technology Bhagalpur**.  
 * My focus is on **Graphics Programming, Game Development, and Digital Art**.  
 * I am driven by solving complex visual problems and blending creativity with low-level code.  
@@ -23,45 +23,41 @@
 
 ### ⚙️ Tech Stack
 
-<div align="center">
-
-### ⚙️ Tech Stack
-
 #### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&v=4" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark" />
 </p>
 
 #### Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark&v=4" />
+  <img src="https://skillicons.dev/icons?i=opengl,unity,threejs&perline=10&theme=dark" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&v=4" />
+  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark" />
 </p>
 
 ---
 
-### 🧩 Highlighted Projects
+### ⚙️ Highlighted Projects
 *(This is the space you wanted left for your projects. Just fill in the details below!)*  
 
-#### 🧾 [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
+#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
 - *Description:* A brief 1-2 sentence description of what the project does.  
 - *Tech:* List the key technologies used (e.g., *C++, OpenGL, GLM*).  
 
-#### 🕹️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
+#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
 - *Description:* A brief 1-2 sentence description of what the project does.  
 - *Tech:* List the key technologies used (e.g., *Unity, C#, Blender*).  
 
-#### 🌐 [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
+#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
 - *Description:* A brief 1-2 sentence description of what the project does.  
 - *Tech:* List the key technologies used (e.g., *Three.js, JavaScript, HTML/CSS*).  
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&theme=transparent&hide_border=true&icon_color=ff8c00&text_color=b3b3b3&title_color=ff8c00" width="48%"/>
@@ -74,7 +70,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### ⚙️ GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=algolia&no-frame=true&margin-w=10" />
 </p>
@@ -85,7 +81,7 @@
 
 ---
 
-### 🔗 Connect
+### ⚙️ Connect
 <p align="center">
   <a href="mailto:mdmaazalihaider@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d0d0d?logo=gmail&logoColor=ff8c00&style=for-the-badge">
