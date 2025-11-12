@@ -19,6 +19,10 @@
 
 ### Tech Stack
 
+---
+
+### Tech Stack
+
 #### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,glsl,html,css&perline=10&theme=dark&hover=true" />
@@ -33,6 +37,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark&hover=true" />
 </p>
+
+---
 
 ---
 
