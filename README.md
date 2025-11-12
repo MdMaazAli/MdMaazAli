@@ -79,12 +79,14 @@
 
 ### ⚙️ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=darkhub&no-frame=true&margin-w=10&title_color=ff4500" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Just-Here-TO-Code&theme=darkhub&no-frame=true&margin-w=10" />
+</p> 
 
 ---
 
-> <span style="color:#ff4500; text-shadow: 0 0 10px #ff3300;">My focus is the intersection of art, game development, and low-level graphics programming.</span>
+
+### 🐍 *Contribution Snake*
+![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
