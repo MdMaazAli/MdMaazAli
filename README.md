@@ -31,15 +31,15 @@
 #### Libraries & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,threejs&perline=10&theme=dark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/OpenGL_logo.svg" width="72" height="72" alt="OpenGL" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,gimp,ai,xd,figma,git,github,vscode&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,ai,xd,figma,git,github,vscode&perline=10&theme=dark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="GIMP" />
 </p>
 
----
 
 ### ⚙️ Highlighted Projects
 *(This is the space you wanted left for your projects. Just fill in the details below!)*  
