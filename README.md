@@ -1,12 +1,17 @@
-<h1 align="center" style="color:#ff8c00; font-family: 'Segoe UI', sans-serif;">MD MAAZ ALI HAIDER</h1>
-<h3 align="center" style="color:#b3b3b3; font-weight: 400;">Graphics Programmer | Game Developer | CS Student</h3>
+<h1 align="center" style="color:#ff4500; font-family: 'Segoe UI', sans-serif; text-shadow: 0 0 12px #ff3300;">
+  MD MAAZ ALI HAIDER
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&size=22&color=ffb380&center=true&vCenter=true&width=600&lines=Graphics+Programmer+%7C+Game+Developer+%7C+CS+Student" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MdMaazAli">
-    <img src="https://img.shields.io/badge/GitHub-MdMaazAli-0d0d0d?logo=github&logoColor=ff8c00&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-MdMaazAli-0d0d0d?logo=github&logoColor=ff4500&style=for-the-badge" />
   </a>
   <a href="mailto:mdmaazalihaider@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdmaazalihaider@gmail.com-1a1b27?logo=gmail&logoColor=ff8c00&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-mdmaazalihaider@gmail.com-1a1b27?logo=gmail&logoColor=ff4500&style=for-the-badge" />
   </a>
 </p>
 
@@ -40,6 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="GIMP" />
 </p>
 
+---
 
 ### ⚙️ Highlighted Projects
 *(This is the space you wanted left for your projects. Just fill in the details below!)*  
@@ -61,33 +67,36 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&theme=transparent&hide_border=true&icon_color=ff8c00&text_color=b3b3b3&title_color=ff8c00" width="48%"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MdMaazAli&theme=dark&hide_border=true&currStreakLabel=ff8c00&ring=ff8c00&fire=ff8c00&sideNums=b3b3b3&sideLabels=ff8c00&background=0d0d0d" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&theme=transparent&hide_border=true&icon_color=ff4500&text_color=ffb380&title_color=ff4500" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MdMaazAli&theme=dark&hide_border=true&currStreakLabel=ff4500&ring=ff4500&fire=ff4500&sideNums=ffb380&sideLabels=ff4500&background=0d0d0d" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdMaazAli&bg_color=0d0d0d&color=ff8c00&line=ff8c00&point=ffa733&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdMaazAli&bg_color=0d0d0d&color=ff4500&line=ff4500&point=ff9966&area=true&hide_border=true" />
 </p>
 
 ---
 
 ### ⚙️ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MdMaazAli&theme=darkhub&no-frame=true&margin-w=10&title_color=ff4500" />
 </p>
 
 ---
 
-> <span style="color:#ff8c00;">My focus is the intersection of art, game development, and low-level graphics programming.</span>
+> <span style="color:#ff4500; text-shadow: 0 0 10px #ff3300;">My focus is the intersection of art, game development, and low-level graphics programming.</span>
 
 ---
 
 ### ⚙️ Connect
 <p align="center">
   <a href="mailto:mdmaazalihaider@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?logo=gmail&logoColor=ff8c00&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Gmail-0d0d0d?logo=gmail&logoColor=ff4500&style=for-the-badge">
   </a>
   <a href="https://github.com/MdMaazAli">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?logo=github&logoColor=ff8c00&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?logo=github&logoColor=ff4500&style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/mdmaazalihaider">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?logo=linkedin&logoColor=ff4500&style=for-the-badge">
   </a>
 </p>
