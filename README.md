@@ -47,20 +47,11 @@
 
 ---
 
-### ⚙️ Highlighted Projects
-*(This is the space you wanted left for your projects. Just fill in the details below!)*  
+### ⚙️ Highlighted Projects  
 
-#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
-- *Description:* A brief 1-2 sentence description of what the project does.  
-- *Tech:* List the key technologies used (e.g., *C++, OpenGL, GLM*).  
-
-#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
-- *Description:* A brief 1-2 sentence description of what the project does.  
-- *Tech:* List the key technologies used (e.g., *Unity, C#, Blender*).  
-
-#### ⚙️ [PROJECT NAME HERE](https://github.com/MdMaazAli/YOUR-REPO-LINK)
-- *Description:* A brief 1-2 sentence description of what the project does.  
-- *Tech:* List the key technologies used (e.g., *Three.js, JavaScript, HTML/CSS*).  
+#### ⚙️ [Blastt](https://github.com/MdMaazAli/Blastt)
+- *Description:* A cyberpunk themed Shooting Fighter Jet game.  
+- *Tech:* C#,Unity,Blender.
 
 ---
 
