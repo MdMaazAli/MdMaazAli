@@ -8,6 +8,7 @@
 <a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GITHUB-POK%C3%89DEX-101326?style=flat-square&logo=github&logoColor=F8D66D" alt="GitHub" /></a>
 <a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF7547" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FFB380" alt="LinkedIn" /></a>
+
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/133.gif" height="46" alt="Shiny Eevee" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/134.gif" height="46" alt="Shiny Vaporeon" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/135.gif" height="46" alt="Shiny Jolteon" />
@@ -17,7 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/470.gif" height="46" alt="Shiny Leafeon" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/471.gif" height="46" alt="Shiny Glaceon" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/700.gif" height="46" alt="Shiny Sylveon" />
-<br/><br/>
+
+<br>
 <img src="https://img.shields.io/badge/BUILD-EMBER%20MODE-101326?style=flat-square&color=FF5349" alt="Midnight violet" />
 <img src="https://img.shields.io/badge/STATUS-EVOLVING-101326?style=flat-square&color=FFB380" alt="Evolving" />
 <img src="https://img.shields.io/badge/ROSTER-9%20SHINY%20FORMS-101326?style=flat-square&color=FF5349" alt="Nine shiny forms" />
@@ -64,6 +66,7 @@ Interested in graphics programming, game development, and digital art, with a fo
 <div align="center">
 
 <sub><b>LANGUAGES & WEB</b></sub>
+
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js&perline=7&theme=dark" height="42" alt="C, C++, C#, Python, HTML, CSS and JavaScript"/>
 <br/>
 <sub><b>GRAPHICS & ENGINES</b></sub><br/>
