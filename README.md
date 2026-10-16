@@ -1,7 +1,7 @@
-<!-- MAaz's Eeveelution Lab | compact GitHub profile README -->
+<!-- Rain's Eeveelution Lab | compact GitHub profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=138&section=header&color=0:0D1117,35:351006,68:FF4500,100:FFB380&text=MAAZ%27S%20EEVEELUTION%20LAB&fontSize=29&fontColor=FFF9F0&fontAlignY=39&desc=GRAPHICS%20%2F%2F%20GAMES%20%2F%2F%20DIGITAL%20ART&descSize=12&descColor=FFE5D8&descAlignY=66" width="900" alt="Maaz's Eeveelution Lab" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=138&section=header&color=0:0D1117,35:351006,68:FF4500,100:FFB380&text=RAIN%27S%20EEVEELUTION%20LAB&fontSize=29&fontColor=FFF9F0&fontAlignY=39&desc=GRAPHICS%20%2F%2F%20GAMES%20%2F%2F%20DIGITAL%20ART&descSize=12&descColor=FFE5D8&descAlignY=66" width="900" alt="Rain's Eeveelution Lab" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=650&color=FFB380&center=true&vCenter=true&repeat=true&width=600&height=30&lines=TRAINER+CLASS%3A+GRAPHICS+PROGRAMMER;C%2B%2B+%2F%2F+OPENGL+%2F%2F+UNITY;CURRENT+QUEST%3A+REAL-TIME+GRAPHICS" alt="Graphics programmer, game developer and CS student" />
 
@@ -9,6 +9,7 @@
 <a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF7547" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FFB380" alt="LinkedIn" /></a>
 
+<br>
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/133.gif" height="46" alt="Shiny Eevee" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/134.gif" height="46" alt="Shiny Vaporeon" />
 <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/135.gif" height="46" alt="Shiny Jolteon" />
@@ -35,10 +36,9 @@
 <sub>IIIT Bhagalpur</sub>
 </td>
 <td valign="middle">
-**MD MAAZ ALI HAIDER** — Computer Science student at the Indian Institute of Information Technology Bhagalpur.
+**Md Maaz Ali Hider ( aka Rain )** — Computer Science student at the Indian Institute of Information Technology Bhagalpur.
 
-Interested in graphics programming, game development, and digital art, with a focus on the engineering behind interactive visual experiences.
-<sub>Main quest: real-time graphics · Side quests: game development and 3D art · Exploring: OpenGL, AI/ML, Three.js</sub>
+Interested in graphics programming, ai/ml, game development, and digital art, with a focus on the engineering behind interactive visual experiences.
 </td>
 </tr>
 </table>
@@ -66,7 +66,6 @@ Interested in graphics programming, game development, and digital art, with a fo
 <div align="center">
 
 <sub><b>LANGUAGES & WEB</b></sub>
-
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js&perline=7&theme=dark" height="42" alt="C, C++, C#, Python, HTML, CSS and JavaScript"/>
 <br/>
 <sub><b>GRAPHICS & ENGINES</b></sub><br/>
@@ -96,7 +95,7 @@ A cyberpunk-themed shooting fighter-jet game built with Unity and Blender. &nbsp
 <table align="center" width="720">
 <tr>
 <td align="center" valign="top" width="360">
-<img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5349&text_color=FFE5D8&icon_color=FFB380&rank_icon=github" width="330" alt="GitHub profile statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5349&text_color=FFE5D8&icon_color=FFB380&rank_icon=github&custom_title=RAIN%27S%20TRAINER%20STATS" width="330" alt="Rain's GitHub profile statistics" />
 </td>
 <td align="center" valign="top" width="360">
 <img src="https://streak-stats.demolab.com/?user=MdMaazAli&theme=dark&hide_border=true&background=0D1117&ring=FF9A3D&fire=FF5349&currStreakLabel=FFB380&sideNums=FFB380&sideLabels=FF7547&dates=9B9BA3" width="330" alt="GitHub contribution streak" />
