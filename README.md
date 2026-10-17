@@ -28,14 +28,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=138&section=header&color=0:0D1117,35:351006,68:FF4500,100:FFB380&text=RAIN%27S%20EEVEELUTION%20LAB&fontSize=29&fontColor=FFF9F0&fontAlignY=39&desc=GRAPHICS%20%2F%2F%20GAMES%20%2F%2F%20DIGITAL%20ART&descSize=12&descColor=FFE5D8&descAlignY=66" width="100%" alt="Rain's Eeveelution Lab" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=138&section=header&color=0:0D1117,35:4A0C10,68:FF2A1A,100:FF5938&text=RAIN%27S%20EEVEELUTION%20LAB&fontSize=29&fontColor=FFF9F0&fontAlignY=39&desc=GRAPHICS%20%2F%2F%20GAMES%20%2F%2F%20DIGITAL%20ART&descSize=12&descColor=FFE6DE&descAlignY=66" width="100%" alt="Rain's Eeveelution Lab" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=650&color=FFB380&center=true&vCenter=true&repeat=true&width=600&height=30&lines=TRAINER+CLASS%3A+GRAPHICS+PROGRAMMER;C%2B%2B+%2F%2F+OPENGL+%2F%2F+UNITY;CURRENT+QUEST%3A+REAL-TIME+GRAPHICS" alt="Graphics programmer, game developer and CS student" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=650&color=FF5938&center=true&vCenter=true&repeat=true&width=600&height=30&lines=TRAINER+CLASS%3A+GRAPHICS+PROGRAMMER;C%2B%2B+%2F%2F+OPENGL+%2F%2F+UNITY;CURRENT+QUEST%3A+REAL-TIME+GRAPHICS" alt="Graphics programmer, game developer and CS student" />
 
 <p align="center">
-  <a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GITHUB-POK%C3%89DEX-101326?style=flat-square&logo=github&logoColor=F8D66D" alt="GitHub" /></a>
-  <a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF7547" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FFB380" alt="LinkedIn" /></a>
+  <a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GITHUB-POK%C3%89DEX-101326?style=flat-square&logo=github&logoColor=FFB09A" alt="GitHub" /></a>
+  <a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF3D26" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FF5938" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -51,9 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILD-EMBER%20MODE-101326?style=flat-square&color=FF5349" alt="Ember Mode" />
-  <img src="https://img.shields.io/badge/STATUS-EVOLVING-101326?style=flat-square&color=FFB380" alt="Evolving" />
-  <img src="https://img.shields.io/badge/ROSTER-9%20SHINY%20FORMS-101326?style=flat-square&color=FF5349" alt="Nine shiny forms" />
+  <img src="https://img.shields.io/badge/BUILD-VERMILION%20MODE-101326?style=flat-square&color=FF2A1A" alt="Vermilion Mode" />
+  <img src="https://img.shields.io/badge/STATUS-EVOLVING-101326?style=flat-square&color=FF5938" alt="Evolving" />
+  <img src="https://img.shields.io/badge/ROSTER-9%20SHINY%20FORMS-101326?style=flat-square&color=FF2A1A" alt="Nine shiny forms" />
 </p>
 
 </div>
@@ -88,7 +88,7 @@
 <td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/135.gif" height="56" alt="Shiny Jolteon"/><br/><b>JOLTEON</b><br/><img src="https://img.shields.io/badge/TYPE-ELECTRIC-B58B00?style=flat-square&labelColor=0d1117" alt="Electric type"/><br/><code>C</code> · <code>C++</code> · <code>C#</code> · <code>Python</code></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/136.gif" height="56" alt="Shiny Flareon"/><br/><b>FLAREON</b><br/><img src="https://img.shields.io/badge/TYPE-FIRE-FF5349?style=flat-square&labelColor=0d1117" alt="Fire type"/><br/><code>Game Dev</code> · <code>Unity</code></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/136.gif" height="56" alt="Shiny Flareon"/><br/><b>FLAREON</b><br/><img src="https://img.shields.io/badge/TYPE-FIRE-FF2A1A?style=flat-square&labelColor=0d1117" alt="Fire type"/><br/><code>Game Dev</code> · <code>Unity</code></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/196.gif" height="56" alt="Shiny Espeon"/><br/><b>ESPEON</b><br/><img src="https://img.shields.io/badge/TYPE-PSYCHIC-8E44AD?style=flat-square&labelColor=0d1117" alt="Psychic type"/><br/><code>AI/ML</code> · <code>PyTorch</code> · <code>RL</code></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/197.gif" height="56" alt="Shiny Umbreon"/><br/><b>UMBREON</b><br/><img src="https://img.shields.io/badge/TYPE-DARK-565264?style=flat-square&labelColor=0d1117" alt="Dark type"/><br/><code>Low Level Dev</code> · <code>Dear ImGui</code></td>
 </tr>
@@ -135,21 +135,21 @@ A cyberpunk-themed shooting fighter-jet game built with Unity and Blender. &nbsp
 
 ### ✦ 05 / TRAINER TELEMETRY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5349&text_color=FFE5D8&icon_color=FFB380&rank_icon=github&custom_title=RAIN%27S%20TRAINER%20STATS" height="145" alt="Rain's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdMaazAli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2A1A&text_color=FFE6DE&icon_color=FF5938&rank_icon=github&custom_title=RAIN%27S%20TRAINER%20STATS" height="145" alt="Rain's GitHub statistics" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=MdMaazAli&theme=dark&hide_border=true&background=0D1117&ring=FF9A3D&fire=FF5349&currStreakLabel=FFB380&sideNums=FFB380&sideLabels=FF7547&dates=9B9BA3" height="145" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=MdMaazAli&theme=dark&hide_border=true&background=0D1117&ring=FF321F&fire=FF2A1A&currStreakLabel=FF5938&sideNums=FF5938&sideLabels=FF3D26&dates=9B9BA3" height="145" alt="GitHub contribution streak" />
 </p>
 
 ### ✦ 06 / CONNECT
 <div align="center">
 
-<a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/GMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF7547" alt="Email"/></a>
-<a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GITHUB-POK%C3%89DEX-101326?style=flat-square&logo=github&logoColor=F8D66D" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FFB380" alt="LinkedIn"/></a>
+<a href="mailto:mdmaazalihaider@gmail.com"><img src="https://img.shields.io/badge/GMAIL-OPEN%20CHANNEL-101326?style=flat-square&logo=gmail&logoColor=FF3D26" alt="Email"/></a>
+<a href="https://github.com/MdMaazAli"><img src="https://img.shields.io/badge/GITHUB-POK%C3%89DEX-101326?style=flat-square&logo=github&logoColor=FFB09A" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/mdmaazalihaider"><img src="https://img.shields.io/badge/LINKEDIN-TRAINER%20NETWORK-101326?style=flat-square&logo=linkedin&logoColor=FF5938" alt="LinkedIn"/></a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=24&section=footer&color=0:0D1117,50:7A210F,100:FF4500&text=KEEP%20EVOLVING&fontSize=11&fontColor=FFF9F0&fontAlignY=55" width="100%" alt="Keep evolving"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=24&section=footer&color=0:0D1117,50:A9161D,100:FF2A1A&text=KEEP%20EVOLVING&fontSize=11&fontColor=FFF9F0&fontAlignY=55" width="100%" alt="Keep evolving"/>
 
 <br/>
 
