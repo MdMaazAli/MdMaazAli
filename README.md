@@ -54,73 +54,22 @@
 <br/>
 
 ### ✦ 02 / THE EEVEELUTION INDEX
-<table align="center" width="100%" cellpadding="10">
-  <thead>
-    <tr>
-      <th align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/133.gif" height="56" alt="Shiny Eevee"/><br/>
-        <kbd><b>#133 EEVEE</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-NORMAL-8A8175?style=flat-square&labelColor=161b22" alt="Normal type"/><br/>
-        <sub><code>CS Core</code> · <code>Algorithms</code></sub>
-      </th>
-      <th align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/134.gif" height="56" alt="Shiny Vaporeon"/><br/>
-        <kbd><b>#134 VAPOREON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-WATER-1976D2?style=flat-square&labelColor=161b22" alt="Water type"/><br/>
-        <sub><code>Graphics</code> · <code>OpenGL</code></sub>
-      </th>
-      <th align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/135.gif" height="56" alt="Shiny Jolteon"/><br/>
-        <kbd><b>#135 JOLTEON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-ELECTRIC-B58B00?style=flat-square&labelColor=161b22" alt="Electric type"/><br/>
-        <sub><code>C</code> · <code>C++</code> · <code>C#</code> · <code>Python</code></sub>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/136.gif" height="56" alt="Shiny Flareon"/><br/>
-        <kbd><b>#136 FLAREON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-FIRE-FF5349?style=flat-square&labelColor=161b22" alt="Fire type"/><br/>
-        <sub><code>Game Dev</code> · <code>Unity</code></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/196.gif" height="56" alt="Shiny Espeon"/><br/>
-        <kbd><b>#196 ESPEON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-PSYCHIC-8E44AD?style=flat-square&labelColor=161b22" alt="Psychic type"/><br/>
-        <sub><code>AI/ML</code> · <code>PyTorch</code> · <code>RL</code></sub>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/197.gif" height="56" alt="Shiny Umbreon"/><br/>
-        <kbd><b>#197 UMBREON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-DARK-565264?style=flat-square&labelColor=161b22" alt="Dark type"/><br/>
-        <sub><code>Low Level Dev</code> · <code>Dear ImGui</code></sub>
-      </td>
-    </tr>
-  </tbody>
-  <thead>
-    <tr>
-      <th align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/470.gif" height="56" alt="Shiny Leafeon"/><br/>
-        <kbd><b>#470 LEAFEON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-GRASS-2E7D32?style=flat-square&labelColor=161b22" alt="Grass type"/><br/>
-        <sub><code>Blender</code> · <code>LMMS</code></sub>
-      </th>
-      <th align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/471.gif" height="56" alt="Shiny Glaceon"/><br/>
-        <kbd><b>#471 GLACEON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-ICE-168AAD?style=flat-square&labelColor=161b22" alt="Ice type"/><br/>
-        <sub><code>Git</code> · <code>GitHub</code> · <code>VS Code</code></sub>
-      </th>
-      <th align="center">
-        <img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/700.gif" height="56" alt="Shiny Sylveon"/><br/>
-        <kbd><b>#700 SYLVEON</b></kbd><br/><br/>
-        <img src="https://img.shields.io/badge/TYPE-FAIRY-CC4A8C?style=flat-square&labelColor=161b22" alt="Fairy type"/><br/>
-        <sub><code>Figma</code> · <code>Illustrator</code> · <code>GIMP</code></sub>
-      </th>
-    </tr>
-  </thead>
+<table align="center" width="100%" cellpadding="8">
+<tr>
+<td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/133.gif" height="56" alt="Shiny Eevee"/><br/><b>EEVEE</b><br/><img src="https://img.shields.io/badge/TYPE-NORMAL-8A8175?style=flat-square&labelColor=0d1117" alt="Normal type"/><br/><code>CS</code> · <code>Algorithms</code></td>
+<td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/134.gif" height="56" alt="Shiny Vaporeon"/><br/><b>VAPOREON</b><br/><img src="https://img.shields.io/badge/TYPE-WATER-1976D2?style=flat-square&labelColor=0d1117" alt="Water type"/><br/><code>Graphics</code> · <code>OpenGL</code></td>
+<td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/135.gif" height="56" alt="Shiny Jolteon"/><br/><b>JOLTEON</b><br/><img src="https://img.shields.io/badge/TYPE-ELECTRIC-B58B00?style=flat-square&labelColor=0d1117" alt="Electric type"/><br/><code>C</code> · <code>C++</code> · <code>C#</code> · <code>Python</code></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/136.gif" height="56" alt="Shiny Flareon"/><br/><b>FLAREON</b><br/><img src="https://img.shields.io/badge/TYPE-FIRE-FF5349?style=flat-square&labelColor=0d1117" alt="Fire type"/><br/><code>Game Dev</code> · <code>Unity</code></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/196.gif" height="56" alt="Shiny Espeon"/><br/><b>ESPEON</b><br/><img src="https://img.shields.io/badge/TYPE-PSYCHIC-8E44AD?style=flat-square&labelColor=0d1117" alt="Psychic type"/><br/><code>AI/ML</code> · <code>PyTorch</code> · <code>RL</code></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/197.gif" height="56" alt="Shiny Umbreon"/><br/><b>UMBREON</b><br/><img src="https://img.shields.io/badge/TYPE-DARK-565264?style=flat-square&labelColor=0d1117" alt="Dark type"/><br/><code>Low Level Dev</code> · <code>Dear ImGui</code></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/470.gif" height="56" alt="Shiny Leafeon"/><br/><b>LEAFEON</b><br/><img src="https://img.shields.io/badge/TYPE-GRASS-2E7D32?style=flat-square&labelColor=0d1117" alt="Grass type"/><br/><code>Blender</code> · <code>LMMS</code></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/471.gif" height="56" alt="Shiny Glaceon"/><br/><b>GLACEON</b><br/><img src="https://img.shields.io/badge/TYPE-ICE-168AAD?style=flat-square&labelColor=0d1117" alt="Ice type"/><br/><code>Git</code> · <code>GitHub</code> · <code>VS Code</code></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/showdown/shiny/700.gif" height="56" alt="Shiny Sylveon"/><br/><b>SYLVEON</b><br/><img src="https://img.shields.io/badge/TYPE-FAIRY-CC4A8C?style=flat-square&labelColor=0d1117" alt="Fairy type"/><br/><code>Figma</code> · <code>Illustrator</code> · <code>GIMP</code></td>
+</tr>
 </table>
 
 <br/>
