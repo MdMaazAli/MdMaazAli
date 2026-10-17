@@ -6,8 +6,13 @@
   <table width="100%" cellpadding="8">
     <tr>
       <td align="center" valign="middle" width="35%">
-        <img src="assets/rain-persona.gif" width="220" alt="Rain's cyberpunk persona"/>
+        <sub><b>NIGHT SHIFT</b></sub>
+        <br/><br/>
+        <img src="assets/rain-ramen-shop.gif" width="220" alt="Rain's pixel-art ramen shop"/>
         <br/>
+        <br/><br/>
+        <img src="assets/rain-persona.gif" width="220" alt="Rain's cyberpunk persona"/>
+        <br/><br/>
         <sub><b>RAIN</b></sub>
       </td>
       <td align="center" valign="middle" width="65%">
