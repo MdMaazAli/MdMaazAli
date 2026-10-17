@@ -1,4 +1,26 @@
 <!-- Rain's Eeveelution Lab | compact GitHub profile README -->
+
+### ✦ 00 / RAIN AFTER DARK
+
+<div align="center">
+  <table width="100%" cellpadding="8">
+    <tr>
+      <td align="center" valign="middle" width="35%">
+        <img src="assets/rain-persona.gif" width="220" alt="Rain's cyberpunk persona"/>
+        <br/>
+        <sub><b>RAIN</b></sub>
+      </td>
+      <td align="center" valign="middle" width="65%">
+        <img src="assets/rain-city.gif" width="100%" alt="Rain's neon-soaked cyberpunk city at night"/>
+        <br/>
+        <sub><b>AFTER HOURS</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=138&section=header&color=0:0D1117,35:351006,68:FF4500,100:FFB380&text=RAIN%27S%20EEVEELUTION%20LAB&fontSize=29&fontColor=FFF9F0&fontAlignY=39&desc=GRAPHICS%20%2F%2F%20GAMES%20%2F%2F%20DIGITAL%20ART&descSize=12&descColor=FFE5D8&descAlignY=66" width="100%" alt="Rain's Eeveelution Lab" />
